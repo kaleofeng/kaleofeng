@@ -8,8 +8,7 @@
 
 ---
 
-![Kaleofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleofeng&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleofeng&layout=compact&hide_border=true&langs_count=10)](https://github.com/kaleofeng/github-readme-stats)
+![Kaleofeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleofeng&show_icons=true&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleofeng&layout=compact&hide_border=true&langs_count=10)](https://github.com/kaleofeng/github-readme-stats)
 
 📝 [Blog](https://qilu.me)
 
